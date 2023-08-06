@@ -2,16 +2,6 @@
 
 Welcome to this project, designed to offer a hands-on experience with the seamless collaboration of React, Astro, Nanostores, and TailwindCSS. By delving into this basic form application, you can gain valuable insights into the interplay of these technologies for efficient state management. Easily input your name, email, and password, and witness the details effortlessly update in the associated table. This interactive platform also allows you to edit and delete the entered information, making it an ideal learning ground for mastering these powerful tools in a practical context.
 
-```
-npm create astro@latest -- --template minimal
-```
-
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/withastro/astro/tree/latest/examples/minimal)
-[![Open with CodeSandbox](https://assets.codesandbox.io/github/button-edit-lime.svg)](https://codesandbox.io/p/sandbox/github/withastro/astro/tree/latest/examples/minimal)
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/withastro/astro?devcontainer_path=.devcontainer/minimal/devcontainer.json)
-
-> 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
-
 ## 🚀 Project Structure
 
 Inside of your Astro project, you'll see the following folders and files:
